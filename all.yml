@@ -9,11 +9,10 @@
     - /Applications/iTunes.app
     - /Applications/Rdio.app
     - "/Applications/Adobe Photoshop Lightroom 5.app"
+    - "/Applications/Sublime Text 2.app"
     - /Applications/iTerm.app
-    - /Applications/Dash.app
     folders:
     - path: ~/
-    - path: ~/Documents
     - path: ~/Downloads
       sort: datemodified
 
