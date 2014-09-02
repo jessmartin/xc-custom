@@ -2,6 +2,8 @@
 - hosts: all
   roles:
 
+  # TODO: Tell brew cask to install in /Applications
+
   # Configure the dock
   - role: dock
     apps:
